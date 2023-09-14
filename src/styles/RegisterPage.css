@@ -4,7 +4,11 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+<<<<<<< HEAD
   background-image: url('../../public/images/register-pic.jpg'); /* Replace with your image URL */
+=======
+  background-image: url('../../public/images/register-pic.jpg'); 
+>>>>>>> 49dd4361732c4e6ef4bf4651478f66c4a1959311
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
