@@ -4,7 +4,7 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('E:\React Projects\MongoDB Projects\PetPals Sheltar\frontend\public\images\register-pic.jpg'); /* Replace with your image URL */
+  background-image: url('../../public/images/register-pic.jpg'); /* Replace with your image URL */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
