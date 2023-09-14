@@ -10,7 +10,7 @@
 }
 
 .banner {
-  background-image: url('E:\React Projects\MongoDB Projects\PetPals Sheltar\frontend\public\images\imgbanner.jpg');
+  background-image: url('../../public/images/imgbanner.jpg');
   background-size: cover;
   background-position: center;
   padding: 100px;
